@@ -1,6 +1,6 @@
 # project1_DC
 ### Table of Contents:
-* [Installation](# Installation)
+* [Installation](#Installation)
 ### Project Motivation
 ### File Descriptions
 ### Results
