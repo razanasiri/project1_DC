@@ -1,10 +1,10 @@
 # project1_DC
 ### Table of Contents:
 * [Installation](#Installation)
-### Project Motivation
-### File Descriptions
-### Results
-### Licensing, Authors, and Acknowledgements
+* [Project Motivation](#Project-Motivation)
+* [File Descriptions](# File-Descriptions)
+* [Results](#Results)
+*[Licensing, Authors, and Acknowledgements](#Licensing,-Authors,-and Acknowledgements)
 
 
 ## Installation
