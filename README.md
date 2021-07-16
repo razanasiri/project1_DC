@@ -1,5 +1,4 @@
 # project1_DC
-# project-1-
 ### Table of Contents:
 ### Installation
 ### Project Motivation
